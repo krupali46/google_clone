@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": "0697",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contact-clone.appspot.com/o/img%2FIMG_0729.png?alt=media&token=55092c70-a457-4fa9-ae8a-b969f5d6e7d0",
+      "name": "krupali x mayur",
+      "email": "",
+      "ph": "",
+      "Add": "",
+      "nots": ""
+    },
+    {
+      "id": "1263",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contact-clone.appspot.com/o/img%2FIMG_0720.jpeg?alt=media&token=0d472c1f-7c00-42df-a61b-2adbc5629ef4",
+      "name": "kru",
+      "email": "",
+      "ph": "",
+      "Add": "",
+      "nots": ""
+    }
+  ]
+}

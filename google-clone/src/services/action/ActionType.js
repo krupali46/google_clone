@@ -1,0 +1,5 @@
+ export const ADD_CONTACT = "ADD_CONTACT";
+ export const DELETE_CONTACT = "DELETE_CONTACT";
+ export const  UPDATE_CONTACT = " UPDATE_CONTACT";
+ export const SINGLE_CONTACT= "SINGLE_CONTACT";
+ export const  ADDCONTACTSUC = "ADDCONTACTSUC";

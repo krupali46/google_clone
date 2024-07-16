@@ -1,0 +1,26 @@
+.custom-navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #363e49;
+  }
+  
+  .custom-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #7bc0b1 !important;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .custom-brand:hover {
+    color: #96d1c3 !important;
+  }
+  
+  .custom-nav-link {
+    color: #7bc0b1 !important;
+    font-size: 1rem;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .custom-nav-link:hover {
+    color: #96d1c3 !important;
+  }
+  
